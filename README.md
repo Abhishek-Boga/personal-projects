@@ -1,2 +1,5 @@
-# personal-projects
-This Repo consists of my personal projects
+# Personal Projects
+
+**Author:** Abhishek Boga
+
+This repository contains my projects.
